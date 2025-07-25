@@ -1,0 +1,22 @@
+{
+    "saurabh": {
+        "phone": "6206363049",
+        "email": "saurabh123@gmail.com",
+        "address": "bihar"
+    },
+    "shubham": {
+        "phone": "6388863674",
+        "email": "s07327947@gmail.com",
+        "address": "delhi"
+    },
+    "swapnil": {
+        "phone": "8076548249",
+        "email": "swapnilpandey20102003@gmail.com",
+        "address": "greater noida"
+    },
+    "mohit": {
+        "phone": "8603558880",
+        "email": "mohit987@gmail.com",
+        "address": "jaipur"
+    }
+}
